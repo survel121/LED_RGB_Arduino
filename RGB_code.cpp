@@ -1,5 +1,5 @@
 // Le code à compiler sur Arduino s'écrit en C/C++ mais je recommande de juste copier coller le code parce que l'extension proposée par l'IDE Arduino, c'est ".ino"
-
+// Lien de la vidéo : https://youtu.be/msYmTViAJ9w
 
   // On définit la position des LED par rapport aux PINs de la carte
 const int LED_Green = 3; // LED verte
